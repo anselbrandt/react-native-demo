@@ -9,7 +9,7 @@ yarn start
 Dev menu:
 
 ```
-^ ⌘ z
+⌃ ⌘ z
 
 ctrl + cmd + z
 ```
